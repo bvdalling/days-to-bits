@@ -1,0 +1,21 @@
+{
+  "name": "daystobits",
+  "version": "1.0.0",
+  "description": "A simple utility to convert weekly days to bit values for database storage.",
+  "main": "src/index.ts",
+  "scripts": {
+    "build" : "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitwise",
+    "bit",
+    "decimal",
+    "binary"
+  ],
+  "author": "Brent Dalling @ Sparkfish",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
