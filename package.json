@@ -1,11 +1,15 @@
 {
   "name": "daystobits",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple utility to convert weekly days to bit values for database storage.",
   "main": "src/index.ts",
   "scripts": {
     "build" : "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bvdalling/days-to-bits.git"
   },
   "keywords": [
     "bitwise",
